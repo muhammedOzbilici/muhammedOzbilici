@@ -18,7 +18,7 @@ I'm a passionate Software Developer with a journey that began in 2015. Over thes
 
 ## 📈 GitHub Stats
 
-![Muhammed's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Muhammed's GitHub stats](https://github-readme-stats.vercel.app/api?username=muhammedOzbilici&show_icons=true&theme=radical)
 
 ## 📫 How to Reach Me
 
